@@ -1,4 +1,4 @@
-"# CODEALPHA-task-2-calculator" 
+Calculator 
 HTML (Structure): This defines the layout of your calculator. You'll create buttons for numbers, operations (like +, -, *, /), and a display area where the results will be shown. 
 CSS (Styling): CSS makes your calculator look appealing by adding colors, spacing, and other visual styles.
 
